@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image:url(image/yejing2.jpg);
+	/*background-size:contain;*/
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+}
